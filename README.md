@@ -17,11 +17,13 @@ It scans for vulnerabilities like:
 - File Inclusion (Traversal)
 - and many more!
 
-## 🖥️ Demo Screenshot
+## 🖥️ Screenshot
 
-📸 Example scan result from a vulnerable test website:
+![Screenshot 2025-04-28 183033](https://github.com/user-attachments/assets/f419e138-e5bd-43f4-95c3-b39a3fe21f22)
 
-(Screenshot will be shown after pushing to GitHub)
+
+📸 Scan result from a vulnerable test website:
+
 
 ✅ Real-time scanning updates  
 ✅ Live vulnerability findings  
