@@ -19,7 +19,8 @@ It scans for vulnerabilities like:
 
 ## 🖥️ Screenshot
 
-![Screenshot 2025-04-28 183033](https://github.com/user-attachments/assets/f419e138-e5bd-43f4-95c3-b39a3fe21f22)
+   ![Screenshot (2)](https://github.com/user-attachments/assets/ded468c1-a90f-44df-bbaf-45867493f26f)
+
 
 
 📸 Scan result from a vulnerable test website:
